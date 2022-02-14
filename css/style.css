@@ -35,3 +35,13 @@ padding: 5px;
     margin-top: 0;
     font-size: 10px;
 }
+
+.evidenziatore {
+    background-color: yellow;
+}
+
+ul {
+    
+    padding-left: 0; 
+    margin-left: 1rem;
+}
