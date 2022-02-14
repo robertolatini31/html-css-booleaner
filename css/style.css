@@ -6,14 +6,12 @@ main , footer {
 padding: 5px;
 }
 
-.contenitor {
-    width: 1000px;
-}
 
 .heading {
     height: 170px;
     background-color: rgba(78,160,255,255);
     background-image: url('../img/pattern.png');  
+    background-size: auto;
 }
 
 #logo {
