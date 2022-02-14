@@ -74,17 +74,22 @@ ul {
     background-image: url('../img/graph.jpg');
 }
 
+.text{
+    margin-top: 1rem;
+}
+
 .advpic {
-    padding-top: 0;
-    margin-top: 0;
     width: 300px;
     height: 200px; 
     background-size: cover;
     color: white;
+    padding-top: 0;
+    margin-top: 0;
 }
 
 h3 {
    padding: 10px;
+   
 }
 
 .shorttd {
