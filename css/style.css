@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+.heading {
+    height: 170px;
+    background-color: rgba(78,160,255,255);
+    background-image: url('../img/pattern.png');  
+}
+
+
+#logo {
+    width: 200px;
+    margin-top: 100px;
+    padding-left: 1rem;
+}
+
+.clictext {
+    color: #34b0e7;
+}
