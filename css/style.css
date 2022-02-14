@@ -6,6 +6,10 @@ main , footer {
 padding: 5px;
 }
 
+.contenitor {
+    width: 1000px;
+}
+
 .heading {
     height: 170px;
     background-color: rgba(78,160,255,255);
@@ -40,8 +44,7 @@ padding: 5px;
     background-color: yellow;
 }
 
-ul {
-    
+ul {  
     padding-left: 0; 
     margin-left: 1rem;
 }
@@ -78,4 +81,12 @@ ul {
 
 h3 {
     padding: 10px;
+}
+
+.shorttd {
+    text-align: center;
+}
+
+.longtd{
+    text-align: justify;
 }
