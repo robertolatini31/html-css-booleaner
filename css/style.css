@@ -62,6 +62,8 @@ ul {
 
 .adv {
     color: #979797;
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 #firstadv {
@@ -73,6 +75,8 @@ ul {
 }
 
 .advpic {
+    padding-top: 0;
+    margin-top: 0;
     width: 300px;
     height: 200px; 
     background-size: cover;
@@ -80,7 +84,7 @@ ul {
 }
 
 h3 {
-    padding: 10px;
+   padding: 10px;
 }
 
 .shorttd {
@@ -89,4 +93,8 @@ h3 {
 
 .longtd{
     text-align: justify;
+}
+
+table {
+    border-collapse: collapse;
 }
